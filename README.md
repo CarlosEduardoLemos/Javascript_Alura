@@ -6,7 +6,7 @@ Este é o README para o projeto Robotron 2000, uma aplicação interativa que pe
 | -------------  | --- |
 | :sparkles: Nome        | **Robotron 2000 - Montagem do Robô**
 | :label: Tecnologias | HTML, CSS, JavaScript
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://carloseduardolemos.github.io/Javascript_Alura/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/CarlosEduardoLemos/Javascript_Alura/main/img/Captura%20de%20tela%202023-06-03%20125235.png#vitrinedev)
@@ -21,7 +21,7 @@ Durante a montagem do robô, você poderá escolher entre diferentes opções de
 
 Os próximos passos para o projeto incluem a adição de mais opções de personalização, como cores, adereços e armas para o robô, além da implementação de uma funcionalidade de salvar e compartilhar o robô montado nas redes sociais.
 
-Sinta-se à vontade para experimentar o Robotron 2000 - Montagem do Robô [aqui](https://url-deploy.com.br) e solte sua criatividade ao criar o robô defensor mais poderoso para proteger a Terra contra os alienígenas invasores.
+Sinta-se à vontade para experimentar o Robotron 2000 - Montagem do Robô [aqui](https://carloseduardolemos.github.io/Javascript_Alura/) e solte sua criatividade ao criar o robô defensor mais poderoso para proteger a Terra contra os alienígenas invasores.
 
 ## Contribuição
 
