@@ -9,7 +9,7 @@ Este é o README para o projeto Robotron 2000, uma aplicação interativa que pe
 | :rocket: URL         | https://url-deploy.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/SeuUsuario/projeto-robotron-2000/main/imagens/robotron-2000.png#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/Javascript_Alura/main/img/Captura%20de%20tela%202023-06-03%20125235.png#vitrinedev)
 
 ## Detalhes do projeto
 
