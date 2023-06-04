@@ -1,6 +1,6 @@
 # Robotron 2000 - Montagem do Robô Defensor
 
-Este é o README para o projeto Robotron 2000, uma aplicação interativa que permite a montagem personalizada de um robô defensor para proteger a Terra do ataque alienígena.
+O projeto Robotron 2000, é uma aplicação interativa que permite a montagem personalizada de um robô defensor para proteger a Terra do ataque alienígena.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
